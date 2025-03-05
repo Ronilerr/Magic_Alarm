@@ -26,3 +26,5 @@ melody when triggered by the alarm.
 ○ LED_PIN (Pin 13): Connected to a basic LED to visually indicate when the
 music is playing. The LED is turned on when the music starts and turned off
 when significant motion is detected
+
+Demo: https://www.youtube.com/watch?v=zjsMZAP2yBw
