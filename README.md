@@ -1,4 +1,4 @@
-# 🎵 Light & Motion Reactive Harry Potter Melody
+#  Light & Motion Reactive Harry Potter Melody
 
 This Arduino project combines a **buzzer**, **light sensor**, **ultrasonic sensor**, and **LED** to play a portion of the *Harry Potter* theme song. The melody playback dynamically reacts to ambient **light levels** and stops automatically upon detecting **motion**.
 
