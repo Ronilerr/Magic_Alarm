@@ -26,7 +26,7 @@ This Arduino project combines a **buzzer**, **light sensor**, **ultrasonic senso
 
 ---
 
-## 🪛 Pin Configuration
+##  Pin Configuration
 
 | Component        | Pin (ESP32)     |
 |------------------|-----------------|
